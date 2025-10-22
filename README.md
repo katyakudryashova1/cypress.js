@@ -54,4 +54,4 @@ npx cypress run --spec cypress/e2e/lesson_locators.cy.js --browser chrome
 
 ## Автор
 
-Екатерина Кудряшова ([@ekaterinakudryashova037@gmail.com](https://t.me/qa_katyak))
+Екатерина Кудряшова ([@ekaterinakudryashova037@gmail.com][https://t.me/qa_katyak])
